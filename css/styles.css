@@ -1,0 +1,83 @@
+body{
+    background-color: #3f4249;
+    margin:0;
+  }
+
+h1 {
+    color: #F7F7F7;
+    font-size: 7vw !important;
+    text-align: center;
+    margin-top: 20%;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.jumbotron{
+    position: relative;
+    z-index:-2;
+  }
+  
+  .video-background { 
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -2;
+    width:100%;
+  }
+
+  .logo {
+      margin: auto;
+  }
+
+  .push {
+      position: sticky;
+      padding-top: 18%;
+  }
+
+  .row {
+      background-color: gray;
+  }
+
+
+
+  a:hover {
+      color: #93DEFF;
+  }
+
+  .navbar {
+    background-color: #323643;
+    font-size: 1rem;
+    color: #F7F7F7;
+}
+
+.navbar-brand {
+    margin-left: 2%;
+    font-size: 1.5rem;
+    color: #F7F7F7;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.navbar-brand:hover {
+    color: #93DEFF;
+}
+
+.nav-link:hover {
+    color: #93DEFF;
+}
+
+.fa-brands {
+    font-size: 1.5rem;
+}
+
+.fa-brands:hover {
+    color: #93DEFF !important;
+    
+}
+
+.icons {
+margin-right: 2%;
+}
+
+
+  
